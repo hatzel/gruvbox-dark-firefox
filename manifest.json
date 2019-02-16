@@ -32,6 +32,9 @@
         }
     },
     "name": "gruvbox-dark",
+    "author": "Hans Ole Hatzel",
+    "homepage_url": "https://github.com/hatzel/gruvbox-dark-firefox",
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "0.1",
+    "description": "A theme based on the gruvbox-dark colors"
 }
